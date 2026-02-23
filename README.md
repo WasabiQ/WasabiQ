@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Coding, Information Security and Modding
 - 🌱 I’m currently learning CS, Game Development and Linux :)
 - 💞️ I’m looking to collaborate with anyone
-- 📫 How to reach me averagegenshinaddict on Discord or WasabiST on Scratch
+- 📫 How to reach me: github or averagegenshinaddict on discord
 - 😄 Pronouns: He/Him
 
 <!---
